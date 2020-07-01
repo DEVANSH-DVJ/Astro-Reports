@@ -1,2 +1,2 @@
-# Astro-Articles
-Astronomy Articles (2020)
+# Astro-Reports
+Astronomy Reports (2020)
